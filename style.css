@@ -1,0 +1,62 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(246, 209, 255);
+  }
+  nav {
+    padding-left: 500px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(241, 151, 255);
+    color: white;
+    font-size:xx-large;
+  }
+  #wlc {
+    padding-left: 600px;
+  }
+  #audio {
+    padding-left: 570px;
+  }
+  #cc {
+    padding-left: 620px;
+    font-size:x-large;
+
+  }
+  #img{
+    padding-left: 600px;
+
+  }
+  .aboutsection {
+    border: 2px solid #000; /* 2px solid black border */
+    padding: 20px; /* Adds some padding inside the border */
+    margin: 20px; /* Adds some margin outside the border */
+    border-radius: 10px; /* Optional: Adds rounded corners */
+}
+.worksection {
+    border: 2px solid #000; /* 2px solid black border */
+   /* padding: 20px; /* Adds some padding inside the border */
+    margin: 20px; /* Adds some margin outside the border */
+    border-radius: 10px; /* Optional: Adds rounded corners */
+}
+.resumesection {
+    border: 2px solid #000; /* 2px solid black border */
+    padding: 20px; /* Adds some padding inside the border */
+    margin: 20px; /* Adds some margin outside the border */
+    border-radius: 10px; /* Optional: Adds rounded corners */
+}
+.contactsection {
+    border: 2px solid #000; /* 2px solid black border */
+    padding: 20px; /* Adds some padding inside the border */
+    margin: 20px; /* Adds some margin outside the border */
+    border-radius: 10px; /* Optional: Adds rounded corners */
+}
+#iframe{
+    padding-left: 400px;
+    padding-bottom: 20px;
+
+}
+#mywork {
+    padding-left: 650px;
+    font-size:x-large;
+
+
+}
